@@ -477,19 +477,19 @@ A Review of Methods and Applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(252).pdf" style="text-decoration:none;">GraphSAINT: a graph sampling based inductive learning method</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(253).pdf" style="text-decoration:none;">Hoppity: Learning Graph Transformations to Detect and Fix Bugs in Programs</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(214).pdf" style="text-decoration:none;">Stochastic Training of Graph Convolutional Networks with Variance Reduction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(215).pdf" style="text-decoration:none;">A Fair Comparison of Graph Neural Networks for Graph Classification </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(254).pdf" style="text-decoration:none;"> How Powerful are Graph Neural Networks?</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(255).pdf" style="text-decoration:none;">Relation Networks for Object Detection </a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(216).pdf" style="text-decoration:none;">A Generative Model For Electron Paths</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(217).pdf" style="text-decoration:none;">A New Model for Learning in Graph Domains</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(256).pdf" style="text-decoration:none;">Hyper-SAGNN: a self-attention based graph neural network for hypergraphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(257).pdf" style="text-decoration:none;">Masked Graph Convolutional Network</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(218).pdf" style="text-decoration:none;">Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(219).pdf" style="text-decoration:none;">Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(220).pdf" style="text-decoration:none;">I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(258).pdf" style="text-decoration:none;">Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(259).pdf" style="text-decoration:none;">Topology Optimization based Graph Convolutional Network</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(260).pdf" style="text-decoration:none;">Inductive Matrix Completion Based on Graph Neural Networks</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(221).pdf" style="text-decoration:none;">Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(222).pdf" style="text-decoration:none;">Abstract Diagrammatic Reasoning with Multiplex Graph Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(261).pdf" style="text-decoration:none;">Inductive representation learning on temporal graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(262).pdf" style="text-decoration:none;">InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization</a></li>
 
 
 
