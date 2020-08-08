@@ -77,116 +77,118 @@ for relational reasoning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(38).pdf" style="text-decoration:none;">Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(39).pdf" style="text-decoration:none;">Dynamic Graph CNN for Learning on Point Clouds</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(40).pdf" style="text-decoration:none;">FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(41).pdf" style="text-decoration:none;">Using transfer learning to detect galaxy mergers</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(42).pdf" style="text-decoration:none;">Radio Galaxy Zoo: ClaRAN | a deep learning classifier for radio morphologies</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(41).pdf" style="text-decoration:none;">GeniePath: Graph Neural Networks with Adaptive Receptive Paths</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(42).pdf" style="text-decoration:none;">Neural Relational Inference for Interacting Systems</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(43).pdf" style="text-decoration:none;">SBAF: A New Activation Function for Artificial Neural Net based Habitability Classification</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(44).pdf" style="text-decoration:none;">ExoGAN: Retrieving Exoplanetary Atmospheres Using Deep Convolutional Generative Adversarial Networks</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(45).pdf" style="text-decoration:none;">Supervised Machine Learning for Analysing Spectra of Exoplanetary Atmospheres</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(43).pdf" style="text-decoration:none;">Traffic Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(44).pdf" style="text-decoration:none;">Matching Article Pairs with Graphical Decomposition and Convolutions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(45).pdf" style="text-decoration:none;">N-GCN: Multi-scale Graph Convolution for Semi-supervised Node Classification</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(46).pdf" style="text-decoration:none;">Photometric redshifts from SDSS images using a Convolutional Neural Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(46).pdf" style="text-decoration:none;">Link Prediction Based on Graph Neural Networks</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(47).pdf" style="text-decoration:none;">A Machine-learning Method for Identifying Multiwavelength Counterparts of Submillimeter Galaxies: Training and Testing Using AS2UDS and ALESS</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(48).pdf" style="text-decoration:none;">Real-time multiframe blind deconvolution of solar images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(47).pdf" style="text-decoration:none;">Graph Partition Neural Networks for Semi-Supervised Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(48).pdf" style="text-decoration:none;">Learning Region Features for Object Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(49).pdf" style="text-decoration:none;">Resolution and accuracy of non-linear regression of PSF with artificial neural networks </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(49).pdf" style="text-decoration:none;">Inference in Probabilistic Graphical Models by Graph Neural Networks </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(50).pdf" style="text-decoration:none;">Transfer learning for galaxy morphology from one survey to another</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(51).pdf" style="text-decoration:none;">Weak-lensing shear measurement with machine learning: Teaching artificial neural networks about feature noise</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(52).pdf" style="text-decoration:none;">Identifying Reionization Sources from 21cm Maps using Convolutional Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(50).pdf" style="text-decoration:none;">Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(51).pdf" style="text-decoration:none;">Graphite: Iterative Generative Modeling of Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(52).pdf" style="text-decoration:none;">Iterative Visual Reasoning Beyond Convolutions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(53).pdf" style="text-decoration:none;">Complex Fully Convolutional Neural Networks for MR Image Reconstruction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(53).pdf" style="text-decoration:none;">Semi-supervised User Geolocation via Graph Convolutional Networks</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(54).pdf" style="text-decoration:none;">Deep Learning for Image Sequence Classification of Astronomical Events </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(54).pdf" style="text-decoration:none;">Constructing Narrative Event Evolutionary Graph for Script Event Prediction </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(55).pdf" style="text-decoration:none;">Visualizing the Hidden Features of Galaxy Morphology with Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(55).pdf" style="text-decoration:none;">Graph Capsule Convolutional Neural Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(56).pdf" style="text-decoration:none;">A novel single-pulse search approach to detection of dispersed radio pulses using clustering and supervised machine learning </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(56).pdf" style="text-decoration:none;">AffinityNet: Semi-supervised Few-shot Learning for Disease Type Prediction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(57).pdf" style="text-decoration:none;">Cosmological constraints from noisy convergence maps through deep learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(57).pdf" style="text-decoration:none;">Contextual Graph Markov Model:
+A Deep and Generative Approach to Graph Processing</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(58).pdf" style="text-decoration:none;">The FIRST Classifier: Compact and Extended Radio Galaxy Classification using Deep Convolutional Neural
-Networks</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(59).pdf" style="text-decoration:none;">Galaxy Morphology Classification with Deep Convolutional Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(58).pdf" style="text-decoration:none;">Lovász Convolutional Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(59).pdf" style="text-decoration:none;">Rethinking Knowledge Graph Propagation for Zero-Shot Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(60).pdf" style="text-decoration:none;">Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(60).pdf" style="text-decoration:none;">Graph Networks as Learnable Physics Engines for Inference and Control</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(61).pdf" style="text-decoration:none;">Enhanced Rotational Invariant Convolutional Neural Network for Supernovae Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(61).pdf" style="text-decoration:none;">Relational inductive biases, deep learning, and graph networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(62).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(62).pdf" style="text-decoration:none;">Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(63).pdf" style="text-decoration:none;">Analyzing Inverse Problems with Invertible Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(63).pdf" style="text-decoration:none;">Representation Learning on Graphs with Jumping Knowledge Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(64).pdf" style="text-decoration:none;">Single-pulse classifier for the LOFAR Tied-Array All-sky Survey</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(64).pdf" style="text-decoration:none;">Learning Conditioned Graph Structures for Interpretable Visual Question Answering</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(65).pdf" style="text-decoration:none;">Machine Learning Classification of Gaia Data Release 2 </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(65).pdf" style="text-decoration:none;">Graph-to-Sequence Learning using Gated Graph Neural Networks</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(66).pdf" style="text-decoration:none;">Searching for Sub-Second Stellar Variability with Wide-Field Star Trails and Deep Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(66).pdf" style="text-decoration:none;">Deep Reasoning with Knowledge Graph for Social Relationship Understanding</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(67).pdf" style="text-decoration:none;">Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(67).pdf" style="text-decoration:none;">Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(68).pdf" style="text-decoration:none;">Protostellar classification using supervised machine learning algorithms</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(68).pdf" style="text-decoration:none;">DeepInf: Social Influence Prediction with Deep Learning</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(69).pdf" style="text-decoration:none;">Detecting Radio Frequency Interference in radio-antenna arrays with the Recurrent Neural Network algorithm</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(69).pdf" style="text-decoration:none;">Large-Scale Learnable Graph Convolutional Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(70).pdf" style="text-decoration:none;">QuasarNET: Human-level spectral classification and redshifting with Deep Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(70).pdf" style="text-decoration:none;">Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(71).pdf" style="text-decoration:none;">Stellar Cluster Detection using GMM with Deep Variational Autoencoder</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(71).pdf" style="text-decoration:none;">Learning Human-Object Interactions by Graph Parsing Neural Networks</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(72).pdf" style="text-decoration:none;">Galaxy detection and identification using deep learning and data augmentation</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(73).pdf" style="text-decoration:none;">Towards online triggering for the radio detection of air showers using deep neural networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(74).pdf" style="text-decoration:none;">From FATS to feets: Further improvements to an astronomical feature extraction tool based on machine learning</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(75).pdf" style="text-decoration:none;">Deep Learning Based Detection of Cosmological Diffuse Radio Sources</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(76).pdf" style="text-decoration:none;">Bayesian sparse reconstruction: a brute-force approach to astronomical imaging and machine learning</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(77).pdf" style="text-decoration:none;">Segmentation of coronal holes in solar disk images with a convolutional neural network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(72).pdf" style="text-decoration:none;">Question Answering by Reasoning Across Documents with Graph Convolutional Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(78).pdf" style="text-decoration:none;">Graph Neural Networks for IceCube Signal Classification</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(79).pdf" style="text-decoration:none;">Galaxy morphology prediction using capsule networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(73).pdf" style="text-decoration:none;">Adversarial Attacks on Node Embeddings via Graph Poisoning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(74).pdf" style="text-decoration:none;">GAMENet: Graph Augmented MEmory Networks for Recommending Medication Combination</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(75).pdf" style="text-decoration:none;">Exploiting Edge Features in Graph Neural Networks</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(76).pdf" style="text-decoration:none;">Learning to Solve NP-Complete Problems: A Graph Neural Network for Decision TSP</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(80).pdf" style="text-decoration:none;">TSARDI: a Machine Learning data rejection algorithm for transiting exoplanet light curves</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(77).pdf" style="text-decoration:none;">Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(81).pdf" style="text-decoration:none;">DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(82).pdf" style="text-decoration:none;">Scalable Solutions for Automated Single Pulse Identification and Classification in Radio Astronomy</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(83).pdf" style="text-decoration:none;">Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(84).pdf" style="text-decoration:none;">Classifying Lensed Gravitational Waves in the Geometrical Optics Limit with Machine Learning</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(85).pdf" style="text-decoration:none;">Deep multi-survey classification of variable stars</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(86).pdf" style="text-decoration:none;">Deblending galaxy superpositions with branched generative adversarial networks</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(87).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(88).pdf" style="text-decoration:none;">Distinguishing standard and modified gravity cosmologies with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(89).pdf" style="text-decoration:none;">A hybrid approach to machine learning annotation of large galaxy image databases</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(90).pdf" style="text-decoration:none;">Towards a radially-resolved semi-analytic model for the evolution of disc galaxies tuned with machine learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(91).pdf" style="text-decoration:none;">Scientific Domain Knowledge Improves Exoplanet Transit Classification with Deep Learning</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(92).pdf" style="text-decoration:none;">Applying deep neural networks to the detection and space parameter estimation of compact binary coalescence with a network of gravitational wave detectors</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(93).pdf" style="text-decoration:none;"> Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(94).pdf" style="text-decoration:none;">Deep Learning Applied to the Asteroseismic Modeling of Stars with Coherent Oscillation Modes</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(95).pdf" style="text-decoration:none;">Finding high-redshift strong lenses in DES using convolutional neural networks</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(96).pdf" style="text-decoration:none;">Classification of gravitational-wave glitches via dictionary learning</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(97).pdf" style="text-decoration:none;">Reduced-order modeling with artificial neurons for gravitational-wave inference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(78).pdf" style="text-decoration:none;">Bayesian Semi-supervised Learning with Graph Gaussian Processes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(79).pdf" style="text-decoration:none;">Adaptive Sampling
+Towards Fast Graph Representation Learning</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(98).pdf" style="text-decoration:none;">Probabilistic Random Forest: A machine learning algorithm for noisy datasets</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(80).pdf" style="text-decoration:none;">Graph Convolutional Networks for Text Classification</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(81).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(82).pdf" style="text-decoration:none;">Hypergraph Neural Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(83).pdf" style="text-decoration:none;">Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(84).pdf" style="text-decoration:none;">Open Vocabulary Learning on Source Code with a Graph–Structured Cache</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(85).pdf" style="text-decoration:none;">GraphIE: A Graph-Based Framework for Information Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(86).pdf" style="text-decoration:none;">Textbook Question Answering with Multi-modal Context Graph: Understanding and Self-supervised Open-set Comprehension</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(87).pdf" style="text-decoration:none;">Session-based Recommendation with Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(88).pdf" style="text-decoration:none;">Logic Attention Based Neighborhood Aggregation for Inductive Knowledge Graph Embedding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(89).pdf" style="text-decoration:none;">Gaussian-Induced Convolution for Graphs</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(99).pdf" style="text-decoration:none;">Machine-learning Approaches to Exoplanet Transit Detection and Candidate Validation in Wide-field Ground-based Surveys</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(100).pdf" style="text-decoration:none;">Classification of Multiwavelength Transients with Machine Learning</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(90).pdf" style="text-decoration:none;">End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(91).pdf" style="text-decoration:none;">Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(92).pdf" style="text-decoration:none;">Graph Learning-Convolutional Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(93).pdf" style="text-decoration:none;"> Attentive Relational Networks for Mapping Images to Scene Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(94).pdf" style="text-decoration:none;">Bayesian graph convolutional neural networks for semi-supervised classification</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(95).pdf" style="text-decoration:none;">Graph-Based Global Reasoning Networks</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(96).pdf" style="text-decoration:none;">MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(97).pdf" style="text-decoration:none;">Playing Text-Adventure Games with
+Graph-Based Deep Reinforcement Learning</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(98).pdf" style="text-decoration:none;">Auto-Encoding Scene Graphs for Image Captioning</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(99).pdf" style="text-decoration:none;">Deep Learning on Graphs: A Survey</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(100).pdf" style="text-decoration:none;">NeighbourhoodWatch: Referring Expression Comprehension via Language-guided Graph Attention Networks</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(101).pdf" style="text-decoration:none;">Identification of Low Surface Brightness Tidal Features in Galaxies Using Convolutional Neural Networks</a></li> 
   
