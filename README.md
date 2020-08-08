@@ -527,8 +527,21 @@ A Review of Methods and Applications</a></li>
   
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(281).pdf" style="text-decoration:none;">A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(282).pdf" style="text-decoration:none;">PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(283).pdf" style="text-decoration:none;">Physics-aware Difference Graph Networks for Sparsely-Observed Dynamics</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(284).pdf" style="text-decoration:none;"> Explainability Methods for Graph Convolutional Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(285).pdf" style="text-decoration:none;">Predict then Propagate: Graph Neural Networks meet Personalized PageRank </a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(286).pdf" style="text-decoration:none;">Pruned Graph Scattering Transforms </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(287).pdf" style="text-decoration:none;">3D Graph Neural Networks for RGBD Semantic Segmentation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(288).pdf" style="text-decoration:none;">Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(289).pdf" style="text-decoration:none;">Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(290).pdf" style="text-decoration:none;">Robust Graph Convolutional Networks Against Adversarial Attacks</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(291).pdf" style="text-decoration:none;">Graphical-Based Learning Environments for Pattern Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(292).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Directed Graph Neural Networks</a></li>
 
 
 
