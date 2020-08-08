@@ -543,8 +543,24 @@ A Review of Methods and Applications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(291).pdf" style="text-decoration:none;">Graphical-Based Learning Environments for Pattern Recognition</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(292).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Directed Graph Neural Networks</a></li>
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(293).pdf" style="text-decoration:none;">Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(294).pdf" style="text-decoration:none;"> SNEQ: Semi-supervised Attributed Network Embedding with Attention-based Quantisation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(295).pdf" style="text-decoration:none;">SPAGAN: Shortest Path Graph Attention Network </a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(296).pdf" style="text-decoration:none;">Strategies for Pre-training Graph Neural Networks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(297).pdf" style="text-decoration:none;">StructPool: Structured Graph Pooling via Conditional Random Fields</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(298).pdf" style="text-decoration:none;">Structured Neural Summarization</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(299).pdf" style="text-decoration:none;">The Logical Expressiveness of Graph Neural Networks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(300).pdf" style="text-decoration:none;">Neural networks for relational learning: an experimental comparison</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(301).pdf" style="text-decoration:none;">Graph Attention Convolution for Point Cloud Semantic Segmentation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(302).pdf" style="text-decoration:none;">Non-local Neural Networks</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(303).pdf" style="text-decoration:none;">What graph neural networks cannot learn: depth vs width</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(304).pdf" style="text-decoration:none;">Spatial-aware Graph Relation Network for Large-scale Object Detection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(305).pdf" style="text-decoration:none;">Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks</a></li>
 
  
  </ul>
