@@ -413,6 +413,90 @@ A Review of Methods and Applications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(222).pdf" style="text-decoration:none;">Abstract Diagrammatic Reasoning with Multiplex Graph Networks</a></li>
 
  
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(223).pdf" style="text-decoration:none;">GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(224).pdf" style="text-decoration:none;"> Adaptive Structural Fingerprints for Graph Attention Networks</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(225).pdf" style="text-decoration:none;">Attention Guided Graph Convolutional Networks for Relation Extraction</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(226).pdf" style="text-decoration:none;">CAPSULE GRAPH NEURAL NETWORK</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(227).pdf" style="text-decoration:none;">Composition-Based Multi-Relational Graph Convolutional Networks</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(228).pdf" style="text-decoration:none;">Curvature Graph Network</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(229).pdf" style="text-decoration:none;">GRAPH ATTENTION NETWORKS</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(230).pdf" style="text-decoration:none;">Learning Steady-States of Iterative Algorithms over Graphs</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(231).pdf" style="text-decoration:none;">DEEP GRAPH INFOMAX</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(232).pdf" style="text-decoration:none;">DEEP GRAPH MATCHING CONSENSUS</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(233).pdf" style="text-decoration:none;">DeepSphere: a graph-based spherical CNN</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(234).pdf" style="text-decoration:none;">Directional Message Passing for Molecular Graphs</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(235).pdf" style="text-decoration:none;">DropEdge: Towards Deep Graph Convolutional Networks on Node Classification</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(236).pdf" style="text-decoration:none;">Dynamically Pruned Message Passing Networks (DPMPN) for large-scale knowledge graph reasoning</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(237).pdf" style="text-decoration:none;">DyRep: Learning Representations over Dynamic Graphs</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(238).pdf" style="text-decoration:none;">Efficient Probabilistic Logic Reasoning with Graph Neural Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(239).pdf" style="text-decoration:none;">Few-Shot Learning on Graphs via Super-Classes based on Graph Spectral Measures</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(240).pdf" style="text-decoration:none;">Graph U-Nets</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(201).pdf" style="text-decoration:none;">Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(202).pdf" style="text-decoration:none;">Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(203).pdf" style="text-decoration:none;">Visual Interaction Networks: Learning a Physics Simulator from Video</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(204).pdf" style="text-decoration:none;">Protein Interface Prediction using Graph Convolutional Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(205).pdf" style="text-decoration:none;">Structure-Aware Convolutional Neural Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(206).pdf" style="text-decoration:none;">Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(207).pdf" style="text-decoration:none;">Symbolic Graph Reasoning Meets Convolutions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(208).pdf" style="text-decoration:none;">Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(209).pdf" style="text-decoration:none;">Recurrent Relational Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(210).pdf" style="text-decoration:none;">Mean-field theory of graph neural networks in graph partitioning</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(211).pdf" style="text-decoration:none;">Hierarchical Graph Representation Learning with Differentiable Pooling</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(212).pdf" style="text-decoration:none;">Constrained Generation of Semantically Valid Graphs via Regularizing Variational Autoencoders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(213).pdf" style="text-decoration:none;">Graph Neural Networks for Ranking Web Pages</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(214).pdf" style="text-decoration:none;">Stochastic Training of Graph Convolutional Networks with Variance Reduction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(215).pdf" style="text-decoration:none;">A Fair Comparison of Graph Neural Networks for Graph Classification </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(216).pdf" style="text-decoration:none;">A Generative Model For Electron Paths</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(217).pdf" style="text-decoration:none;">A New Model for Learning in Graph Domains</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(218).pdf" style="text-decoration:none;">Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(219).pdf" style="text-decoration:none;">Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(220).pdf" style="text-decoration:none;">I Know the Relationships: Zero-Shot Action Recognition via Two-Stream Graph Convolutional Networks and Knowledge Graphs</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(221).pdf" style="text-decoration:none;">Graph Convolutional Networks with Markov Random Field Reasoning for Social Spammer Detection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(222).pdf" style="text-decoration:none;">Abstract Diagrammatic Reasoning with Multiplex Graph Networks</a></li>
+
+
+
+
+
+
+
+
  
  </ul>
