@@ -474,7 +474,7 @@ A Review of Methods and Applications</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(251).pdf" style="text-decoration:none;">Graph Convolutional Networks with Argument-Aware Pooling for Event Detection</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(252).pdf" style="text-decoration:none;">GraphSAINT: a graph sampling based inductive learning method</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(252).pdf" style="text-decoration:none;">Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(253).pdf" style="text-decoration:none;">Hoppity: Learning Graph Transformations to Detect and Fix Bugs in Programs</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(254).pdf" style="text-decoration:none;"> How Powerful are Graph Neural Networks?</a></li>
