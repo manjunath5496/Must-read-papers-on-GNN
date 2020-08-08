@@ -492,6 +492,41 @@ A Review of Methods and Applications</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(262).pdf" style="text-decoration:none;">InfoGraph: Unsupervised and Semi-supervised Graph-Level Representation Learning via Mutual Information Maximization</a></li>
 
 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(263).pdf" style="text-decoration:none;">Invariant and Equivariant Graph Networks</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(264).pdf" style="text-decoration:none;">Structural-RNN: Deep Learning on Spatio-Temporal Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(265).pdf" style="text-decoration:none;">Data Representation and Learning with Graph Diffusion-Embedding Networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(266).pdf" style="text-decoration:none;">OAG: Toward Linking Large-scale Heterogeneous Entity Graphs</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(267).pdf" style="text-decoration:none;">Dynamic Graph Generation Network: Generating Relational Knowledge from Diagrams</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(268).pdf" style="text-decoration:none;">LambdaNet: Probabilistic Type Inference using Graph Neural Networks</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(269).pdf" style="text-decoration:none;">LanczosNet: Multi-Scale Deep Graph Convolutional Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(270).pdf" style="text-decoration:none;">Learning Multimodal Graph-to-Graph Translation for Molecular Optimization</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(271).pdf" style="text-decoration:none;">Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(272).pdf" style="text-decoration:none;">GCAN: Graph Convolutional Adversarial Network for Unsupervised Domain Adaptation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(273).pdf" style="text-decoration:none;">Disentangled Graph Convolutional Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(274).pdf" style="text-decoration:none;"> Measuring and Improving the Use of Graph Information in Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(275).pdf" style="text-decoration:none;">MEMORY-BASED GRAPH NETWORKS </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(276).pdf" style="text-decoration:none;">NerveNet: Learning Structured Policy with Graph Neural Networks </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(277).pdf" style="text-decoration:none;">Neural Execution of Graph Algorithms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(278).pdf" style="text-decoration:none;">Learning Convolutional Neural Networks for Graphs</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(279).pdf" style="text-decoration:none;">On the Equivalence between Positional Node Embeddings and Structural Graph Representations </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(280).pdf" style="text-decoration:none;">Occlusion-Net: 2D/3D Occluded Keypoint Localization Using Graph Networks</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(281).pdf" style="text-decoration:none;">A Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Must-read-papers-on-GNN/blob/master/gnn(282).pdf" style="text-decoration:none;">PeerNets: Exploiting Peer Wisdom Against Adversarial Attacks</a></li>
 
 
 
